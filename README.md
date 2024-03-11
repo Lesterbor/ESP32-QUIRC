@@ -1,0 +1,2 @@
+# ESP32-QUIRC
+对ESP32CAM的二维码识别
